@@ -1,0 +1,4 @@
+You should be able to add and remove users
+You should be able to add the balance to them
+
+Projektname: BankingBad
